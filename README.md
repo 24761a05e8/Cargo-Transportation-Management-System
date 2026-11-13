@@ -6,9 +6,13 @@ A web-based application designed to manage cargo bookings, customer details, shi
 
 ## 🎥 Project Demonstration
 
-Watch the complete project demonstration on LinkedIn:
+Watch the complete project demonstration video on LinkedIn:
 
-▶️ [Watch Project Demo Video](https://lnkd.in/p/d7AzVirV)
+[Click here to watch the Cargo Transportation Management System Demo](https://lnkd.in/p/d7AzVirV)
+
+## 💻 Source Code
+
+[View the complete project on GitHub](https://github.com/24761a05e8/Cargo-Transportation-Management-System)
 
 ## ✨ Key Features
 
